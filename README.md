@@ -5,4 +5,4 @@ https://vimeo.com/781731139
 
 ## Why?
 To answer the question: how well can the VAE encode frames of a video? No matter what you pass into the unet, you'll be limited by what the VAE can generate.  
-In my opinion, the result is not great. Lots of artifacts between frames.
+In my opinion, the result is not great. Lots of artifacts between frames. 
